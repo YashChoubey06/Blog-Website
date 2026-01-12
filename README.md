@@ -19,34 +19,6 @@ A fully functional blog platform built with Python and Flask. This project featu
 * **Forms**: Flask-WTF
 * **Security**: Werkzeug (Password Hashing)
 
-## 📋 Installation & Setup
-
-1.  **Clone the repository**:
-    ```bash
-    git clone <your-repository-url>
-    cd <your-project-folder>
-    ```
-
-2.  **Create a virtual environment**:
-    ```bash
-    python -m venv venv
-    ```
-
-3.  **Activate the virtual environment**:
-    * **Windows**: `venv\Scripts\activate`
-    * **Mac/Linux**: `source venv/bin/activate`
-
-4.  **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-5.  **Run the application**:
-    ```bash
-    python main.py
-    ```
-    The app will be available at `http://127.0.0.1:5002`
-
 ## 📁 Project Structure
 
 * `main.py`: The core Flask application containing routes, models, and logic.
